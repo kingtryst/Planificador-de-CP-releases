@@ -1,13 +1,21 @@
-# Planificador de CP Aion 2: instaladores
+# Planificador de CP Aion 2
 
-Aquí solo se publican los ejecutables del **Planificador de CP Aion 2**, una app de escritorio para Windows que busca tu personaje de Aion 2 (servidores globales), revisa su equipo, Daevanion y habilidades, y arma un plan para subir CP y GS.
+Busca tu personaje de Aion 2 (servidores globales), revisa su equipo, Daevanion y habilidades, y arma un plan para subir CP y GS.
 
-## Cómo instalar o actualizar
+## En PC: usa la página web
 
-1. Entra a **[Releases](../../releases/latest)** y descarga `Aion2-CP-Planner.exe`.
-2. Si ya tienes una versión, cierra la app y reemplaza el `.exe` anterior.
-3. La primera vez, Windows puede mostrar "Windows protegió tu PC" porque el ejecutable no está firmado: **Más información → Ejecutar de todas formas**.
+**https://planificador-cp.pages.dev**
 
-La app avisa cuando hay una versión nueva, pero nunca descarga nada por su cuenta.
+Funciona en cualquier navegador (PC, Mac o teléfono), no se instala nada y siempre está en la última versión.
 
-Proyecto personal, sin afiliación con NCSOFT.
+La versión de Windows como `.exe` se dejó de publicar: los navegadores la bloqueaban con "Virus detectado". Es un falso positivo de Windows Defender, porque el programa no tiene firma comercial, pero bloqueaba la descarga igual. Si tienes un `.exe` viejo puedes seguir usándolo, aunque ya no se actualiza.
+
+## En Android: la app
+
+1. Entra a **[Releases](../../releases/latest)** y descarga `Aion2-CP-Planner.apk`.
+2. Ábrelo en el teléfono. La primera vez, Android pide permitir "instalar apps desconocidas", porque no viene de Google Play.
+3. Para actualizar, instala el APK nuevo encima del anterior. No pierdes nada.
+
+La app de Android avisa de los eventos del juego (Shugo, Invasión, Grieta, Asedio...) aunque esté cerrada. En la web, los avisos suenan mientras la pestaña esté abierta.
+
+Proyecto personal, sin fines de lucro y sin afiliación con NCSOFT.
